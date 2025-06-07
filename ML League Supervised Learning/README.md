@@ -50,12 +50,13 @@ You can participate in the competition and submit your predictions here:
    * Everything is inside the `ML League Supervised Learning/YOUR_ROLL_NO` folder
 
 6. **Add collaborator**
-   Add me (**GitHub username:** `saketjha34`) as a **collaborator** on your GitHub repository.
+   Add  (**GitHub username:** `saketjha34` & `KaushikNITK`) as a **collaborator** on your GitHub repository.
 
 7. **Send final email**
    Once you're done, **email me** at:
    `jhasaketsunil.231cv126@nitk.edu.in`
-   Make sure to include your **GitHub repository link** in the email.
+   `kalvakaushik.231ds014@nitk.edu.in`
+   Make sure to include your **GitHub repository link** , **Kaggle Username**, **Roll No.**, and **Name** in the email.
 
 
 ## 📑 Code Requirements
